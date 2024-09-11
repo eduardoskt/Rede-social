@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
 :root {
-    --bg-color: #1F2937; /* Cor de fundo mais suave */
-    --primary-color: #F3F4F6; /* Branco suave */
-    --secondary-color: #3B82F6; /* Azul vibrante */
-    --accent-color: #F59E0B; /* Laranja para destacar */
-    --font-family: "Poppins", sans-serif; /* Mudança para uma fonte mais moderna */
+    --bg-color: #1F2937; 
+    --primary-color: #F3F4F6; 
+    --secondary-color: #3B82F6; 
+    --accent-color: #F59E0B; 
+    --font-family: "Poppins", sans-serif; 
 }
 
 * {
